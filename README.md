@@ -1,0 +1,2 @@
+# ednux
+ednux core
